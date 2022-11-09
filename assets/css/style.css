@@ -1,0 +1,12 @@
+.subtitulos {
+  font-size: 40spx;
+}
+body {
+  padding: 10px;
+  margin: 10px;
+  background-color: lightblue;
+}
+p {
+  padding: 30px;
+  margin: 20px;
+}
